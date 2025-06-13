@@ -25,6 +25,8 @@ Kullanıcıların yüklediği resimleri analiz eder.
 2. Gerekli kütüphaneleri yükleyin:  
 
 `pip install discord.py aiohttp`
+`pip install tensorflow==2.3.1`
+`pip install discord.py`
 
 3. Bot kodunu yazın ve çalıştırın.
 4. Google Colab üzerinde model servisini başlatıp botu entegre edin.
