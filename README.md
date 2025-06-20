@@ -42,6 +42,12 @@ Kullanıcıların yüklediği resimleri analiz eder.
 
 - 💻 Elektronik Atık
 
+- 🥼 Eskimiş Kıyafet Ve Giysi
+
+- 🌱 Biyolojik Atık
+
+- 👟 Eskimiş Ayakkabı
+
 ## Kaynaklar
 
 - Google Teachable Machine
