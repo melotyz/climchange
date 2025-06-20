@@ -1,7 +1,7 @@
 # ♻️ RecycleByBits
 
 RecycleByBits, Discord’da görsel tabanlı bir atık analiz ve geri dönüşüm öneri botudur.  
-Google Teachable Machine + Google Colab entegrasyonu ile çalışır.  
+Google Teachable Machine Yapay Zeka entegrasyonu ile çalışır.  
 Kullanıcıların yüklediği resimleri analiz eder.
 
 
@@ -52,8 +52,6 @@ Kullanıcıların yüklediği resimleri analiz eder.
 
 - Google Teachable Machine
 
-- Google Colab
-
 - ÇEVKO Geri Dönüşüm Bilgileri
 
 - UNEP Gıda İsrafı ve İklim
@@ -61,4 +59,4 @@ Kullanıcıların yüklediği resimleri analiz eder.
 ## Geliştirici
 ### Proje: RecycleByBits
 ### Geliştirici: Melotyz(Melih)
-#### Hackathon için çevre bilinci kazandıran yapay zeka destekli atık analiz botu. 
+#### Hackathon için yapılmış bir çevre bilinci kazandıran yapay zeka destekli atık analiz botu. 
