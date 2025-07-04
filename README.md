@@ -28,7 +28,7 @@ Kullanıcıların yüklediği resimleri analiz eder.
 `pip install discord.py`
 
 3. Bot kodunu yazın ve çalıştırın.
-4. Google Colab üzerinde model servisini başlatıp botu entegre edin.
+4. Model servisini başlatıp botu entegre edin.
 
 ## Desteklenen Atık Türleri
 - 🧴 Plastik
