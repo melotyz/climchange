@@ -7,7 +7,7 @@ Kullanıcıların yüklediği resimleri analiz eder.
 
 ## Botun Çalışma Prensibi
 
-1️⃣ Kullanıcı botu etiketleyip bir resim gönderir:
+1️⃣ Kullanıcı /recycle komudu ile bir resim gönderir:
 
 2️⃣ Bot şunları yapar:
 
@@ -16,7 +16,6 @@ Kullanıcıların yüklediği resimleri analiz eder.
 - 📊 Doğruluk oranını belirtir.
 - ♻️ Geri dönüşüm yöntemini anlatır.
 - 🎥 Eğlenceli yapım videosu linki paylaşır.
-- ⏰ Kaç saniyede cevap verdiğini gösterir.
 
 
 ## Kurulum ve Çalıştırma
