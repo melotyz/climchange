@@ -43,9 +43,9 @@ Kullanıcıların yüklediği resimleri analiz eder.
 
 - 🥼 Eskimiş Kıyafet Ve Giysi
 
-- 🌱 Biyolojik Atık
-
 - 👟 Eskimiş Ayakkabı
+
+### Bonus Kod: /categories
 
 ## Kaynaklar
 
